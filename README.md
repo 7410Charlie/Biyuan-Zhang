@@ -6,4 +6,4 @@
  
 - :ram: I'm currently learing Python,SQL and R
 
-- 🌈: Welcome!
+- 🌈 Welcome!
